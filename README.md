@@ -1,6 +1,6 @@
 # You Need A Transaction Manager (YNATM)
 
-[![circleci](https://badgen.net/circleci/github/kendricktan/ynatm)](https://app.circleci.com/pipelines/github/kendricktan/ynatm)
+[![circleci](https://badgen.net/circleci/github/UMAprotocol/ynatm)](https://app.circleci.com/pipelines/github/UMAprotocol/ynatm)
 [![npm](https://badgen.net/npm/v/ynatm)](https://www.npmjs.com/package/ynatm)
 
 **(For Ethereum)**
